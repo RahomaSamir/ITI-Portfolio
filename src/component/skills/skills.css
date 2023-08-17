@@ -1,0 +1,13 @@
+
+/* Skills Section */
+.skills {
+    background-color:  #a674d2;
+    padding: 50px;
+    height: 500px;
+}
+
+.skills h2 {
+    font-size: 40px;
+    color: #141313;
+    margin-bottom: 20px;
+}

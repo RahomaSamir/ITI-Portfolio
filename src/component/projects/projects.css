@@ -1,0 +1,25 @@
+/*project&portofolio*/
+
+.Projects h1{
+    font-size: 40px;
+    color: #000000;
+    margin-top: 20px;
+}
+
+.box:hover {
+    transform: scale(1.1);
+}
+.project-image img{
+    width: 100%
+}
+
+.box {
+    background-color: #e8dfdf;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 1px solid #000000;
+    margin-top: 50px;
+    height: 250px;
+    
+  }
